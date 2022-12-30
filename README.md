@@ -11,7 +11,7 @@ I'm YAN,Xu.
 
 
 - 2017.06 Graduated from ✨[Hebei Agricultural University](https://english.hebau.edu.cn/index.htm)✨
-- 2018.12 Operation and Maintenance Engineer(until 2022.03)
+- 2018.12 Operation and Maintenance Engineer (until 2022.03)
 - 2020.10 [TOEIC Listening & Reading Test](https://www.iibc-global.org/toeic/test/lr/guide01.html) 760
 - 2021.05 [JLPT(Japanese Language Proficiency Test)](https://www.jlpt.jp/) N1 143
 - 2022.04 [JAIST(Japan Advanced Institute of Science and Technology)](https://www.jaist.ac.jp/index.html) Admission
