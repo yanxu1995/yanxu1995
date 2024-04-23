@@ -1,10 +1,9 @@
 ### Hi there 👋
 I'm YAN,Xu.
-🔭 A student from JAIST.  
+🔭 A System Engineer.
 🌱 Working on Human-Computer Interaction.  
 👯 Chinese, English, Japanese available.  
-🤔 I’m looking for help with Unity.  
-📫 Mail:yanxu@jaist.ac.jp  
+📫 Mail:yanxu199508@gmail.com
 😄 Expert of Knowing a little bit of everything.  
 ⚡ Fun fact: ...  
 
@@ -16,6 +15,8 @@ I'm YAN,Xu.
 - 2021.05 [JLPT(Japanese Language Proficiency Test)](https://www.jlpt.jp/) N1 143
 - 2022.04 [JAIST(Japan Advanced Institute of Science and Technology)](https://www.jaist.ac.jp/index.html) Admission
 - 2022.11 [FE(Fundamental Information Technology Engineer Examination)](https://www.jitec.ipa.go.jp/1_11seido/fe.html) Passed
+- 2024.03 Graduated from ✨[JAIST(Japan Advanced Institute of Science and Technology)](https://www.jaist.ac.jp/index.html)✨
+- 2024.04 Working as a System Engineer.
 - To be continue...
 <!--
 **yanxu1995/yanxu1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
