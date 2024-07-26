@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm YAN,Xu.
 🔭 A System Engineer.
-🌱 Working on Human-Computer Interaction.  
+🌱 Researched on Human-Computer Interaction.  
 👯 Chinese, English, Japanese available.  
 📫 Mail:yanxu199508@gmail.com
 😄 Expert of Knowing a little bit of everything.  
